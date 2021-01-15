@@ -1,13 +1,6 @@
 C:\Users\Najib\PycharmProjects\AIND-Isolation\venv\Scripts\python.exe C:/Users/Najib/PycharmProjects/AIND-Isolation/tournament.py
 
-This script evaluates the performance of the custom heuristic function by
-comparing the strength of an agent using iterative deepening (ID) search with
-alpha-beta pruning against the strength rating of agents using other heuristic
-functions.  The `ID_Improved` agent provides a baseline by measuring the
-performance of a basic agent using Iterative Deepening and the "improved"
-heuristic (from lecture) on your hardware.  The `Student` agent then measures
-the performance of Iterative Deepening and the custom heuristic against the
-same opponents.
+I uses 2 different functions that maximises player's move with the intuition that player with higher available move have higher chances of winning.
 
 
 *************************
